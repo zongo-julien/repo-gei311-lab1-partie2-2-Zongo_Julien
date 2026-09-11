@@ -1,0 +1,9 @@
+﻿*   57d57d7 2026-09-11 zongo-julien : Fusion apres reset local et revert distant
+|\  
+| * d476edc 2026-09-11 unknown : Revert "Injection de l'erreur dans Dossier_A/textA.txt"
+| * 262def1 2026-09-11 zongo-julien : Ajout de Dossier_B/textB2.txt
+| * 55752c7 2026-09-11 zongo-julien : Injection de l'erreur dans Dossier_A/textA.txt
+* | 9ec2b84 2026-09-11 zongo-julien : Reprise de l'etape 7 apres le reset impliquant la cr├®ation de  Dossier_B/textB2.txt
+|/  
+* 9d09004 2026-09-11 zongo-julien : Ajo├╗t du Dossier_B et de son fichier textB.txt.
+* 99b5eef 2026-09-11 unknown : Ajout de Dossier_A/Text_A
