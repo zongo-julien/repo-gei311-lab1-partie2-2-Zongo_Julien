@@ -1,1 +1,2 @@
 labo 1, gestion de version, Zongo_Julien
+erreur injectée
